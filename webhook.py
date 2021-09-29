@@ -1,6 +1,8 @@
 import requests
 import json
 
+#pip install requests
+
 webhook_url = 'http://127.0.0.1:5000/webhook'
 
 data = { 'Name': 'Lucas Ortis',
